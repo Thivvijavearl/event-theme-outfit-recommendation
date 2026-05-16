@@ -106,5 +106,11 @@ def recommend():
         'outfit_recommendations': outfits
     })
 
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    # Maintain backward compatibility with frontend expecting /predict
+    return recommend()
+
 if __name__ == '__main__':
     app.run(debug=True)

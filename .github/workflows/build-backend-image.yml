@@ -1,0 +1,40 @@
+name: Build and publish backend image
+
+on:
+  push:
+    paths:
+      - 'Event _theme_based_decoration_Recommendation -- Tested -- ok/backend/**'
+      - 'Event _theme_based_decoration_Recommendation -- Tested -- ok/backend/Dockerfile'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      packages: write
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v2
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v2
+
+      - name: Log in to GitHub Container Registry
+        uses: docker/login-action@v2
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push image
+        uses: docker/build-push-action@v5
+        with:
+          context: ./Event _theme_based_decoration_Recommendation -- Tested -- ok/backend
+          push: true
+          tags: ghcr.io/${{ github.repository_owner }}/event-theme-backend:latest
+
+      - name: Output image
+        run: echo "Image: ghcr.io/${{ github.repository_owner }}/event-theme-backend:latest"
