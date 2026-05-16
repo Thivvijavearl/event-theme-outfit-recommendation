@@ -11,7 +11,13 @@ A React frontend for StyleMate, an AI-powered personal fashion assistant. This a
 
 ## Backend
 
-This frontend connects to a Flask API running on `http://localhost:5002/predict`. Make sure the backend is running before using the application.
+This frontend connects to a Flask API running on `http://localhost:5002/predict` by default. Make sure the backend is running before using the application.
+
+For deployment, you can set the backend host via Vite environment variable:
+
+- `VITE_API_BASE=https://your-backend-host`
+
+Then rebuild the frontend so it points to the deployed backend.
 
 ## Getting Started
 
