@@ -1,0 +1,36 @@
+name: Deploy backend to Fly
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Event _theme_based_decoration_Recommendation -- Tested -- ok/backend/**'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Flyctl
+        uses: superfly/flyctl-actions/setup-flyctl@v2
+
+      - name: Authenticate Fly
+        uses: superfly/flyctl-actions/auth@v2
+        with:
+          api_token: ${{ secrets.FLY_API_TOKEN }}
+
+      - name: Build and push Docker image to GHCR
+        uses: docker/build-push-action@v5
+        with:
+          context: ./Event _theme_based_decoration_Recommendation -- Tested -- ok/backend
+          push: true
+          tags: ghcr.io/${{ github.repository_owner }}/event-theme-backend:latest
+
+      - name: Deploy to Fly
+        run: |
+          flyctl deploy --image ghcr.io/${{ github.repository_owner }}/event-theme-backend:latest --app ${{ secrets.FLY_APP_NAME }} --region ord
+        env:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
