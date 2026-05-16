@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[user]
+	name = it22269270
+	email = it22269270@example.com
+[remote "origin"]
+	url = https://github.com/IT21188886/RP-25-26J-302-StyleMate-AI-Outfit-Recommender.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "IT22269270-outfitrecommender"]
+	remote = origin
+	merge = refs/heads/IT22269270-outfitrecommender

@@ -1,0 +1,18 @@
+Color histogram classifier, scaler, and label encoder loaded successfully!
+Loaded dataset-derived control data from 'D:\Research final model tryyy\Event _theme_based_decoration_Recommendation -- Tested -- ok\data\color_dataset_recommendations.json'
+Starting Color Prediction API with direct image upload support...
+ * Serving Flask app 'MobileApi_Color'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5002
+ * Running on http://192.168.5.251:5002
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 145-201-494
+127.0.0.1 - - [04/May/2026 07:13:33] "GET /health HTTP/1.1" 200 -
+127.0.0.1 - - [04/May/2026 07:13:33] "GET /favicon.ico HTTP/1.1" 404 -
+Color histogram classifier, scaler, and label encoder loaded successfully!
+Loaded dataset-derived control data from 'D:\Research final model tryyy\Event _theme_based_decoration_Recommendation -- Tested -- ok\data\color_dataset_recommendations.json'
+Starting Color Prediction API with direct image upload support...

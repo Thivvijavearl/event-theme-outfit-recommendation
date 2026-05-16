@@ -1,0 +1,654 @@
+{
+  "occasions": [
+    "Birthday",
+    "Casual Outing",
+    "Wedding",
+    "Official Events"
+  ],
+  "Black": {
+    "recommendations": {
+      "Birthday": {
+        "men": [
+          "Wedding Wear Pure Black Silk Kurta Pajama with Brocade Jacket | Men's Ethnic Wear | Pure Black",
+          "Linen Light Grey Resham Embroidered Straight Cut Men's Kurta Pajama | Men's Ethnic Wear | Light Grey",
+          "Greenish Grey Cotton Churidar Men Kurta churidar | Men's Ethnic Wear | Greenish Grey",
+          "Printed Cotton Dusty Black Men Kurta Churidar | Men's Ethnic Wear | Black"
+        ],
+        "women": [
+          "A Line Trouser Suit in Velvet Dusty Black for Casual Wear | Women's Ethnic Wear | Dusty Black",
+          "Resham Work Party Wear Trouser Suit in Black Cotton | Women's Ethnic Wear | Black",
+          "Steel Grey Sangeet Stone Embroidered Saree in Net | Indian Cloth | Steel Grey",
+          "Black Organza Faux Mirror Embroidered Straight Cut Palazzo Suit | Women's Ethnic Wear | Pure Black"
+        ]
+      },
+      "Casual Outing": {
+        "men": [
+          "Silk Embroidered Light Grey Straight Cut Men's Kurta Pajama | Men's Ethnic Wear | Light Grey",
+          "Black Dupion Silk Kurta Churidar with Plain Waistcoat | Indian Cloth | Black",
+          "Light Grey Silk Men's Kurta Pajama With Embroidered Jacket | Men's Ethnic Wear | Light Grey",
+          "Black Dupion Silk Embroidered Straight Cut Men's Kurta With Churidar | Men's Ethnic Wear | Pure Black"
+        ],
+        "women": [
+          "Steel Grey Rayon Foil Print Straight Cut Palazzo Suit | Women's Ethnic Wear | Steel Grey",
+          "Printed Cotton Black Straight Cut Palazzo Suit | Women's Ethnic Wear | Pure Black",
+          "Black Printed Cotton Casual Wear Kaftan Kurti | Women's Ethnic Wear | Black",
+          "Greenish Grey Cotton Woven Zari Saree | Indian Cloth | Greenish Grey"
+        ]
+      },
+      "Wedding": {
+        "men": [
+          "Black Georgette Men's Kurta Pajama With Embroidered Jacket | Men's Ethnic Wear | Pure Black",
+          "Exclusive Woven Charcoal Grey Men's Kurta Churidar | Men's Ethnic Wear | Charcoal Grey",
+          "Charcoal Grey Georgette Embroidered Men Jacket Style Sherwani | Men's Ethnic Wear | Charcoal Grey",
+          "Black Dupion Silk Jacket Style Men's Kurta Churidar | Men's Ethnic Wear | Pure Black"
+        ],
+        "women": [
+          "Silk Grey Zari Embroidered Straight Cut Trouser Suit | Women's Ethnic Wear | Pure Grey",
+          "Black Silk Silk Blend Embroidered Anatrkali Trouser Suit | Women's Ethnic Wear | Pure Black",
+          "Black Satin Georgette Embroidered Trouser Suit | Women's Ethnic Wear | Black",
+          "Steel Grey Chiffon Sequins Embroidered Light Weight Saree | Indian Cloth | Steel Grey"
+        ]
+      },
+      "Official Events": {
+        "men": [
+          "White Formal Shirt with Black Suit Corporate Style | Men's Formal Wear | Black & White",
+          "Light Grey Business Suit Professional Wear | Men's Formal Wear | Grey",
+          "Navy Blue Blazer with Formal Trousers | Men's Office Wear | Navy Blue",
+          "Beige Formal Blazer Office Style | Men's Formal Wear | Beige",
+          "Red Tie with White Shirt Formal Accent Look | Men's Formal Wear | Red Accent"
+        ],
+        "women": [
+          "White Blouse with Black Pencil Skirt Office Wear | Women's Formal Wear | Black & White",
+          "Grey Corporate Dress Minimal Style | Women's Office Wear | Grey",
+          "Navy Blue Elegant Office Dress | Women's Office Wear | Navy Blue",
+          "Beige Formal Dress Soft Office Look | Women's Office Wear | Beige",
+          "Red Blouse with Black Trousers Accent Style | Women's Office Wear | Red & Black"
+        ]
+      }
+    },
+    "description": "Dataset-derived style guidance built from wardrobe recommendations and product examples. Choose flattering materials like Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and patterns such as Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids for color-smart outfits. Preferred accent tones include Earth Tones, Olive, Coral, Peach, Mustard. Keep jewelry subtle with Gold, Silver, Rose Gold. These suggestions combine both product-level recommendations and body-style guidance.",
+    "matching_colors": [
+      "Gold",
+      "White",
+      "Emerald",
+      "Red"
+    ],
+    "suitable_colors": {
+      "Birthday": [
+        "Black",
+        "Pure Black",
+        "Grey",
+        "Light Grey"
+      ],
+      "Casual Outing": [
+        "Pure Black",
+        "Light Grey",
+        "Black",
+        "Dark Grey"
+      ],
+      "Wedding": [
+        "Pure Black",
+        "Black",
+        "Light Grey",
+        "Grey"
+      ],
+      "Official Events": [
+        "Black",
+        "Grey",
+        "Navy",
+        "White"
+      ]
+    },
+    "dress_pattern_description": "Based on the dataset, select structured or flowy fabrics and balanced patterns. For most occasions, use Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids to complement the chosen color palette."
+  },
+  "Blue": {
+    "recommendations": {
+      "Birthday": {
+        "men": [
+          "Blue Linen Churidar Men Kurta | Men's Ethnic Wear | Blue",
+          "Plain Navy Blue Silk Men's Coat Pant | Men's Ethnic Wear | Navy Blue",
+          "Pastel Dark Blue Viscose Embroidered Straight Cut Men's Kurta Pajama | Men's Ethnic Wear | Pastel Dark Blue",
+          "Printed Cotton Multi Color Churidar Men Kurta | Men's Ethnic Wear | Multi Color"
+        ],
+        "women": [
+          "Navy Blue Rayon A-Line Printed Kurti | Women's Ethnic Wear | Navy Blue",
+          "Lemon Banglori Silk Gown | Women's Ethnic Wear | Lemon",
+          "Handloom Indian Trouser Suit In Chiku Colour | Women's Ethnic Wear | Chiku",
+          "Embroidered Teal Blue Velvet Trouser Suit | Women's Ethnic Wear | Teal Blue"
+        ]
+      },
+      "Casual Outing": {
+        "men": [
+          "Teal Blue Rayon Ombre Printed Straight Cut Men's Kurta | Men's Ethnic Wear | Teal Blue",
+          "Plain Royal Blue Poly Silk Men Kurta With Churidar | Men's Ethnic Wear | Royal Blue",
+          "Teal Blue Silk Embroidered Men Kurta Churidar | Men's Ethnic Wear | Teal Blue",
+          "Navy Blue Dupion Silk Embroidered Straight Cut Men's Kurta Dhoti | Men's Ethnic Wear | Navy Blue"
+        ],
+        "women": [
+          "Cotton Pastel Dark Blue Printed Casual Wear Kurti | Women's Ethnic Wear | Pastel Dark Blue",
+          "Blue Chiffon Bandhej Printed Saree For Casual Wear | Indian Cloth | New Year",
+          "Navy Blue Cotton Silk Trouser Suit with Sequin Embroidery | Women's Ethnic Wear | Navy Blue",
+          "Organza Prussian Blue Straight Cut Floral Print Trouser Suit | Women's Ethnic Wear | Prussian Blue"
+        ]
+      },
+      "Wedding": {
+        "men": [
+          "Embroidered Men's Sherwani in Art Silk Pastel Dark Blue | Men's Ethnic Wear | Pastel Dark Blue",
+          "Navy Blue Straight Cut Party Wear Men Kurta Pajama in Art Silk | Men's Ethnic Wear | Navy Blue",
+          "Powder Blue Silk Blend Embroidered Straight Cut Men's Sherwani | Men's Ethnic Wear | Powder Blue",
+          "Embroidered Dupion Silk Teal Blue Men Kurta Pajama | Men's Ethnic Wear | Teal Blue"
+        ],
+        "women": [
+          "Cyan Art Silk Lehenga With Art Silk Choli | Indian Cloth | Cyan",
+          "Black Silk Gown | Women's Ethnic Wear | Sky Blue",
+          "Deep Sea Blue Chinnon Embroidered Straight Cut Suit | Pakistani Cloth | Deep Sea Blue",
+          "Navy Blue Velvet Lace Embroidered Trouser Suit | Women's Ethnic Wear | Navy Blue"
+        ]
+      },
+      "Official Events": {
+        "men": [
+          "Beige Formal Suit with White Shirt Office Style | Men's Formal Wear | Beige",
+          "Light Grey Blazer with Office Trousers | Men's Formal Wear | Grey",
+          "White Shirt with Navy Trousers Smart Office Look | Men's Office Wear | White & Navy",
+          "Cream Business Casual Blazer Set | Men's Office Wear | Cream",
+          "Soft Brown Formal Shirt with Trousers Office Wear | Men's Formal Wear | Brown"
+        ],
+        "women": [
+          "Beige Office Pencil Dress Minimal Style | Women's Office Wear | Beige",
+          "White Formal Blouse with Grey Skirt | Women's Formal Wear | White & Grey",
+          "Light Grey Corporate Dress Professional Look | Women's Office Wear | Grey",
+          "Cream Elegant Office Wear Dress | Women's Office Wear | Cream",
+          "Soft Peach Formal Top with Trousers | Women's Office Wear | Peach"
+        ]
+      }
+    },
+    "description": "Dataset-derived style guidance built from wardrobe recommendations and product examples. Choose flattering materials like Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and patterns such as Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids for color-smart outfits. Preferred accent tones include Earth Tones, Olive, Coral, Peach, Mustard. Keep jewelry subtle with Gold, Silver, Rose Gold. These suggestions combine both product-level recommendations and body-style guidance.",
+    "matching_colors": [
+      "White",
+      "Grey",
+      "Beige",
+      "Silver"
+    ],
+    "suitable_colors": {
+      "Birthday": [
+        "Navy Blue",
+        "Teal Blue",
+        "Blue",
+        "Multi Color"
+      ],
+      "Casual Outing": [
+        "Navy Blue",
+        "Sky Blue",
+        "Teal Blue",
+        "Multi Color"
+      ],
+      "Wedding": [
+        "Navy Blue",
+        "Blue",
+        "Teal Blue",
+        "Dark Blue"
+      ],
+      "Official Events": [
+        "Beige",
+        "White",
+        "Grey"
+      ]
+    },
+    "dress_pattern_description": "Based on the dataset, select structured or flowy fabrics and balanced patterns. For most occasions, use Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids to complement the chosen color palette."
+  },
+  "Green": {
+    "recommendations": {
+      "Birthday": {
+        "men": [
+          "Sage Green Printed Banarasi Silk Men's Kurta Churidar | Men's Ethnic Wear | Sage Green",
+          "Pistachio Green Linen Cotton Embroidered Collar Men's Kurta Churidar | Men's Ethnic Wear | Pistachio Green",
+          "Teal Green Cotton Plain Men Kurta Churidar | Men's Ethnic Wear | Teal Green",
+          "Persian Green Dupion Silk Men Kurta With Dhoti | Men's Ethnic Wear | Persian Green"
+        ],
+        "women": [
+          "Silk Indian Wear Saree In Bottle Green Color | Indian Cloth | Bottle Green",
+          "Bottle Green Velvet Straight Cut Trouser Suit with Zari Work | Women's Ethnic Wear | Bottle Green",
+          "Party Wear Resham Embroidered Peacock Green Trouser Suit in Silk | Women's Ethnic Wear | Peacock Green",
+          "Mint Green Chanderi Churidar Suit | Pakistani Cloth | Mint Green"
+        ]
+      },
+      "Casual Outing": {
+        "men": [
+          "Green Embroidered Dupion Silk Men's Kurta Churidar | Men's Ethnic Wear | Pure Green",
+          "Cotton Embroidered Mint Green Straight Cut Men's Kurta Churidar | Men's Ethnic Wear | Mint Green",
+          "Dusty Green Straight Cut Cotton Casual Wear Men's Kurta Pajama | Men's Ethnic Wear | Dusty Green",
+          "Printed Cotton Light Green Men's Straight Cut Kurta Churidar | Men's Ethnic Wear | Light Green"
+        ],
+        "women": [
+          "Banarasi Silk Green Party Wear Saree | Indian Cloth | Green",
+          "Sea Green Light Weight Printed Georgette Saree | Indian Cloth | Sea Green",
+          "Emerald Green Rayon Gota Patti Embroidered Kurti | Women's Ethnic Wear | Emerald Green",
+          "Dark Green Silk Woven Zari Wedding Wear Saree | Indian Cloth | Dark Green"
+        ]
+      },
+      "Wedding": {
+        "men": [
+          "Mint Green Silk Embroidered Men's Sherwani For Engagement | Men's Ethnic Wear | Mint Green",
+          "Banarasi Silk Printed Men's Kurta Churidar in Mint Blue | Men's Ethnic Wear | Mint Blue",
+          "Teal Green Khadi Silk Asymmetric Kurta With Churidar for Wedding & Party | Indian Cloth | Teal Green",
+          "Angrakha Style Sherwani In Dark Green Colour | Men's Ethnic Wear | Dark Green"
+        ],
+        "women": [
+          "Sharara Suit for Party Wear in Georgette Teal Green | Women's Ethnic Wear | Teal Green",
+          "Banglori Silk Chikan Net Anarkalii Suit for Wedding & Party | Women's Ethnic Wear | Celadon Green",
+          "Green Net Lehenga and Chanderi Choli | Indian Cloth | Green",
+          "Dark Green Satin Georgette Embroidered Trouser Suit | Women's Ethnic Wear | Dark Green"
+        ]
+      },
+      "Official Events": {
+        "men": [
+          "White Formal Shirt with Beige Trousers Office Style | Men's Office Wear | White & Beige",
+          "Cream Business Suit Elegant Office Wear | Men's Formal Wear | Cream",
+          "Light Pink Formal Shirt with Grey Pants | Men's Office Wear | Pink & Grey",
+          "Beige Blazer with White Shirt Smart Office Look | Men's Formal Wear | Beige",
+          "Soft Maroon Tie with White Shirt Formal Style | Men's Formal Wear | Maroon Accent"
+        ],
+        "women": [
+          "White Office Dress Minimal Professional Wear | Women's Office Wear | White",
+          "Beige Pencil Skirt with Blouse Corporate Style | Women's Formal Wear | Beige",
+          "Soft Pink Blouse with Grey Trousers Office Wear | Women's Office Wear | Pink & Grey",
+          "Cream Elegant Office Dress | Women's Office Wear | Cream",
+          "Light Rose Formal Top with Skirt Business Wear | Women's Formal Wear | Rose"
+        ]
+      }
+    },
+    "description": "Dataset-derived style guidance built from wardrobe recommendations and product examples. Choose flattering materials like Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and patterns such as Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids for color-smart outfits. Preferred accent tones include Earth Tones, Olive, Coral, Peach, Mustard. Keep jewelry subtle with Gold, Silver, Rose Gold. These suggestions combine both product-level recommendations and body-style guidance.",
+    "matching_colors": [
+      "Beige",
+      "Cream",
+      "Gold",
+      "Brown"
+    ],
+    "suitable_colors": {
+      "Birthday": [
+        "Pistachio Green",
+        "Teal Green",
+        "Green",
+        "Dark Green"
+      ],
+      "Casual Outing": [
+        "Pistachio Green",
+        "Teal Green",
+        "Bottle Green",
+        "Dark Green"
+      ],
+      "Wedding": [
+        "Dark Green",
+        "Pistachio Green",
+        "Mint Blue",
+        "Green"
+      ],
+      "Official Events": [
+        "White",
+        "Beige",
+        "Cream"
+      ]
+    },
+    "dress_pattern_description": "Based on the dataset, select structured or flowy fabrics and balanced patterns. For most occasions, use Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids to complement the chosen color palette."
+  },
+  "Purble": {
+    "recommendations": {
+      "Birthday": {
+        "men": [
+          "Mauve Pink Linen Churidar Men Kurta | Men's Ethnic Wear | Mauve Pink",
+          "Lavender Pink Rayon Straight Cut Printed Men's Kurta Churidar | Men's Ethnic Wear | Lavender Pink",
+          "Plum Purple Viscose Embroidered Straight Cut Kurta Pajama | Men's Ethnic Wear | Plum Purple",
+          "Printed Cotton Light Purple Churidar Men Kurta | Men's Ethnic Wear | Light Purple"
+        ],
+        "women": [
+          "Purple Pashmina Embroidered Trouser Suit | Women's Ethnic Wear | Purple",
+          "Plum Purple Georgette Trouser Suit | Women's Ethnic Wear | Plum Purple",
+          "Mauve Pink Silk Printed Saree | Indian Cloth | Mauve Pink",
+          "Lavender Pink Georgette Embroidered Mother Daughter Duo Anarkali Suit | Women's Ethnic Wear | Lavender Pink"
+        ]
+      },
+      "Casual Outing": {
+        "men": [
+          "Purple Silk Blend Bandhej Printed Men's Kurta Pajama | Men's Ethnic Wear | Purple",
+          "Dupion Silk Printed Purple Straight Cut Men's Kurta With Dhoti | Men's Ethnic Wear | Purple",
+          "Dark Purple Rayon Ombre Printed Straight Cut Men's Kurta | Men's Ethnic Wear | Dark Purple",
+          "Purple Dupion Silk Embroidered Straight Cut Men's Kurta Dhoti | Men's Ethnic Wear | Purple"
+        ],
+        "women": [
+          "Mauve Pink Cotton Resham Embroidered Straight Cut Trouser Suit | Women's Ethnic Wear | Mauve Pink",
+          "Light Purple Silk Embroidered Casual Wear Palazzo Suit | Women's Ethnic Wear | Light Purple",
+          "Purple lycra palazzo pant | Women's Ethnic Wear | Purple",
+          "Dusty Mauve Rayon Printed Short Kurti | Indian Cloth | Dusty Mauve"
+        ]
+      },
+      "Wedding": {
+        "men": [
+          "Printed Cotton Light Purple Men's Kurta Pajama | Men's Ethnic Wear | Purple",
+          "Dupion Silk Plum Purple Embroidered Men's Kurta | Men's Ethnic Wear | Plum Purple",
+          "Light Mauve Cotton Embroidered Straight Cut Men Kurta Pajama | Men's Ethnic Wear | Light Mauve",
+          "Plum Purple Dupion Silk Embroidered Straight Cut Men's Kurta With Churidar | Men's Ethnic Wear | Plum Purple"
+        ],
+        "women": [
+          "Chiffon Embroidered Mauve Pink Light Weight Saree | Indian Cloth | Mauve Pink",
+          "Handloom Touch Silk Saree in Dark Purple Weave | Indian Cloth | Dark Purple",
+          "Dark Purple Georgette Embroidered Traditional Saree | Indian Cloth | Dark Purple",
+          "Plum Purple Silk A Line Anarkali Suit With Zari Embroidered | Women's Ethnic Wear | Plum Purple"
+        ]
+      },
+      "Official Events": {
+        "men": [
+          "Navy Blue Business Suit with Purple Tie | Men's Formal Wear | Navy Blue",
+          "Grey Formal Blazer with Purple Shirt Office Set | Men's Formal Wear | Grey",
+          "White Shirt with Navy Trousers Corporate Style | Men's Office Wear | White & Navy",
+          "Light Lavender Shirt with Grey Suit for Professionals | Men's Formal Wear | Light Lavender",
+          "Charcoal Grey Office Suit with Purple Accent | Men's Formal Wear | Charcoal Grey"
+        ],
+        "women": [
+          "Navy Blue Office Dress with Purple Accessories | Women's Formal Wear | Navy Blue",
+          "Grey Pencil Skirt with Purple Blouse Business Outfit | Women's Office Wear | Grey & Purple",
+          "White Minimal Office Dress Professional Style | Women's Office Wear | White",
+          "Lavender Blouse with Grey Skirt Corporate Outfit | Women's Formal Wear | Lavender",
+          "Charcoal Grey Business Suit for Women Office Wear | Women's Formal Wear | Charcoal Grey"
+        ]
+      }
+    },
+    "description": "Dataset-derived style guidance built from wardrobe recommendations and product examples. Choose flattering materials like Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and patterns such as Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids for color-smart outfits. Preferred accent tones include Earth Tones, Olive, Coral, Peach, Mustard. Keep jewelry subtle with Gold, Silver, Rose Gold. These suggestions combine both product-level recommendations and body-style guidance.",
+    "matching_colors": [
+      "Silver",
+      "White",
+      "Black",
+      "Gold"
+    ],
+    "suitable_colors": {
+      "Birthday": [
+        "Purple",
+        "Plum Purple",
+        "Mauve Pink",
+        "Lavender Pink"
+      ],
+      "Casual Outing": [
+        "Purple",
+        "Plum Purple",
+        "Dark Purple",
+        "Lavender Purple"
+      ],
+      "Wedding": [
+        "Dark Purple",
+        "Plum Purple",
+        "Purple",
+        "Light Purple"
+      ],
+      "Official Events": [
+        "Navy",
+        "Grey",
+        "White"
+      ]
+    },
+    "dress_pattern_description": "Based on the dataset, select structured or flowy fabrics and balanced patterns. For most occasions, use Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids to complement the chosen color palette."
+  },
+  "Red": {
+    "recommendations": {
+      "Birthday": {
+        "men": [
+          "Cotton Deep Red Men Kurta Pajama | Men's Ethnic Wear | Deep Red",
+          "Red Silk Men Pathani Suit | Men's Ethnic Wear | Pure Red",
+          "Maroon Linen Cotton Men's Kurta Churidar | Men's Ethnic Wear | Maroon",
+          "Plain Cherry Red Bangalori Silk Men's Dhoti Kurta | Men's Ethnic Wear | Red"
+        ],
+        "women": [
+          "Wine Georgette Embroidered Trouser Suit | Women's Ethnic Wear | Wine",
+          "Resham Work Embroidered Cotton Silk Dark Pink Trouser Suit | Women's Ethnic Wear | Dark Pink",
+          "Cream with Maroon Georgette Saree With Art Silk Blouse | Indian Cloth | Cream with Maroon",
+          "Red Rayon Embroidered Trouser Suit | Women's Ethnic Wear | Red"
+        ]
+      },
+      "Casual Outing": {
+        "men": [
+          "Dusty Pink Silk Plain Straight Cut Men's Kurta Pajama | Men's Ethnic Wear | Dusty Pink",
+          "Salmon Pink Cotton Silk Printed Men's Straight Cut Kurta Pajama | Men's Ethnic Wear | Salmon Pink",
+          "Light Pink Dupion Silk Embroidered Straight Cut Men's Kurta Pajama | Men's Ethnic Wear | Light Pink",
+          "Dupion Silk Red Men Kurta with Churidar | Men's Ethnic Wear | Red"
+        ],
+        "women": [
+          "Ruby Pink Silk Embroidered Casual Wear Trouser Suit | Women's Ethnic Wear | Ruby Pink",
+          "Pear Green Chiffon Printed Saree For Casual Wear | Indian Cloth | Pear Green, Salmon Pink",
+          "Dori Embroidered Net Dusty Pink Palazzo Suit | Women's Ethnic Wear | Dusty Pink",
+          "Carnation Pink Rayon Foil Print Straight Cut Palazzo Suit | Women's Ethnic Wear | Carnation Pink"
+        ]
+      },
+      "Wedding": {
+        "men": [
+          "Cotton Silk Pastel Pink Jacket Style Men's Plain Kurta Churidar | Men's Ethnic Wear | Pastel Pink",
+          "Indo-Western Maroon Foil Print Cotton Silk Men's Sherwani | Men's Ethnic Wear | Pure Maroon",
+          "Wine Maroon Dupion Silk Men Kurta Pajama | Men's Ethnic Wear | Wine Maroon",
+          "Light Pink Kurta Pajama for Men for Wedding & Party | Men's Ethnic Wear | Light Pink"
+        ],
+        "women": [
+          "Cherry Red Woven Zari Silk Banarasi Style Saree | Indian Cloth | Cherry Red",
+          "Pink And Yellow Art Silk Lehenga With Art Silk Choli | Indian Cloth | Pink and Yellow",
+          "Magenta Pink Traditional Satin Saree for Party | Indian Cloth | Magenta Pink",
+          "Embroidered Red Crepe Trouser Suit for Wedding & Party | Women's Ethnic Wear | Red"
+        ]
+      }
+    },
+    "description": "Dataset-derived style guidance built from wardrobe recommendations and product examples. Choose flattering materials like Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and patterns such as Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids for color-smart outfits. Preferred accent tones include Earth Tones, Olive, Coral, Peach, Mustard. Keep jewelry subtle with Gold, Silver, Rose Gold. These suggestions combine both product-level recommendations and body-style guidance.",
+    "matching_colors": [
+      "Black",
+      "Gold",
+      "Cream",
+      "Navy"
+    ],
+    "suitable_colors": {
+      "Birthday": [
+        "Red",
+        "Light Pink",
+        "Deep Red",
+        "Dark Pink"
+      ],
+      "Casual Outing": [
+        "Salmon Pink",
+        "Red",
+        "Light Pink",
+        "Pastel Pink"
+      ],
+      "Wedding": [
+        "Maroon",
+        "Red",
+        "Deep Red",
+        "Wine Maroon"
+      ]
+    },
+    "dress_pattern_description": "Based on the dataset, select structured or flowy fabrics and balanced patterns. For most occasions, use Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids to complement the chosen color palette."
+  },
+  "Red-Yellow": {
+    "recommendations": {
+      "Birthday": {
+        "men": [
+          "Light Peach Silk Printed Straight Cut Men's Kurta Pajama | Men's Ethnic Wear | Light Peach",
+          "Salmon Peach Brocade Weaved Straight Cut Men's Kurta Salwar | Men's Ethnic Wear | Salmon Peach",
+          "Plain Cotton Light Orange Men's Kurta Pajama | Men's Ethnic Wear | Light Orange",
+          "Salmon Orange Linen Jacket Style Men Kurta With Churidar | Men's Ethnic Wear | Salmon Orange"
+        ],
+        "women": [
+          "Printed Chanderi Dusty Orange Patiala Suit | Indian Cloth | Dusty Orange",
+          "Stone Work Casual Wear Trouser Suit in Peach Cotton | Women's Ethnic Wear | Pure Peach",
+          "Thread Embroidered Net Coral Peach Palazzo Suit | Women's Ethnic Wear | Coral Peach",
+          "Georgette Salmon Peach Party Wear Trouser Suit with Resham Work | Women's Ethnic Wear | Salmon Peach"
+        ]
+      },
+      "Casual Outing": {
+        "men": [
+          "Salmon Peach Cotton Printed Straight Cut Men's Kurta Pajama | Men's Ethnic Wear | Salmon Peach",
+          "Woven Zari Light Peach Straight Cut Silk Men's Kurta Churidar | Men's Ethnic Wear | Light Peach",
+          "Light Orange Cotton Men Kurta With Churidar | Men's Ethnic Wear | Light Orange",
+          "Light Orange Weaved Straight Cut Silk Men's Kurta Churidar | Men's Ethnic Wear | Light Orange"
+        ],
+        "women": [
+          "Orange Festive Wear Printed Silk Saree | Indian Cloth | Orange",
+          "Light Peach Chiffon Saree With Chiffon Blouse | Indian Cloth | Light Peach",
+          "Dusty Peach Silk Printed Straight Cut Casual Wear Suit | Pakistani Cloth | Dusty Peach",
+          "Chanderi Silk Light Orange Ethnic Ensemble with Intricate Work | Pakistani Cloth | Light Orange"
+        ]
+      },
+      "Wedding": {
+        "men": [
+          "Light Peach Silk Woven Zari Men Kurta Pajama | Men's Ethnic Wear | Light Peach",
+          "Dusty Peach Kurta Pajama with Resham Zari Sequins Jacket | Men's Ethnic Wear | Dusty Peach",
+          "Salmon Peach Dupion Silk Embroidered Men Kurta | Men's Ethnic Wear | Salmon Peach",
+          "Light Peach Art Silk Men's Kurta Churidar With Waistcoat | Men's Ethnic Wear | Light Peach"
+        ],
+        "women": [
+          "Light Orange Crepe Printed Floral Saree | Indian Cloth | Light Orange",
+          "Light Peach Anarkali Style Party Wear Anarkali Suit in Santoon | Women's Ethnic Wear | Light Peach",
+          "Orange Woven Printed Linen Cotton Saree | Indian Cloth | Orange",
+          "Peach Mulberry Silk Embroidery Lehenga Choli | Indian Cloth | Peach"
+        ]
+      },
+      "Official Events": {
+        "men": [
+          "Navy Blue Slim Fit Business Suit for Office Meeting | Men's Formal Wear | Navy Blue",
+          "Charcoal Grey Blazer with Trousers Office Set | Men's Formal Wear | Charcoal Grey",
+          "White Formal Shirt with Black Trousers Corporate Style | Men's Office Wear | White & Black",
+          "Light Grey Business Suit with Tie for Professionals | Men's Formal Wear | Light Grey",
+          "Black Classic Formal Suit for Office Events | Men's Formal Wear | Black"
+        ],
+        "women": [
+          "Black Pencil Skirt with White Blouse Office Outfit | Women's Formal Wear | Black & White",
+          "Navy Blue Corporate Sheath Dress for Office | Women's Office Wear | Navy Blue",
+          "Grey Formal Blazer with Skirt Business Outfit | Women's Formal Wear | Grey",
+          "White Elegant Office Dress Minimal Style | Women's Office Wear | White",
+          "Charcoal Grey Trouser Suit for Women Office Wear | Women's Formal Wear | Charcoal Grey"
+        ]
+      }
+    },
+    "description": "Dataset-derived style guidance built from wardrobe recommendations and product examples. Choose flattering materials like Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and patterns such as Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids for color-smart outfits. Preferred accent tones include Earth Tones, Olive, Coral, Peach, Mustard. Keep jewelry subtle with Gold, Silver, Rose Gold. These suggestions combine both product-level recommendations and body-style guidance.",
+    "matching_colors": [
+      "Cream",
+      "Black",
+      "Gold",
+      "Navy"
+    ],
+    "suitable_colors": {
+      "Birthday": [
+        "Light Peach",
+        "Light Orange",
+        "Salmon Orange",
+        "Peach"
+      ],
+      "Casual Outing": [
+        "Salmon Peach",
+        "Light Peach",
+        "Light Orange",
+        "Salmon Orange"
+      ],
+      "Wedding": [
+        "Light Peach",
+        "Salmon Peach",
+        "Peach",
+        "Orange"
+      ],
+      "Official Events": [
+        "Black",
+        "Grey",
+        "Navy",
+        "White"
+      ]
+    },
+    "dress_pattern_description": "Based on the dataset, select structured or flowy fabrics and balanced patterns. For most occasions, use Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids to complement the chosen color palette."
+  },
+  "Yellow": {
+    "recommendations": {
+      "Birthday": {
+        "men": [
+          "Beige Linen Cotton Straight Cut Men's Kurta Churidar | Men's Ethnic Wear | Beige",
+          "Plain White Bangalori Silk Kurta with Dhoti | Indian Cloth | White",
+          "Cotton Ivory Men's Kurta Pajama | Men's Ethnic Wear | Ivory",
+          "White Cotton Plain Men Kurta Pajama | Men's Ethnic Wear | White"
+        ],
+        "women": [
+          "Yellow Silk Embroidered Trouser Suit | Women's Ethnic Wear | Pure Yellow",
+          "Turmeric Yellow Chanderi Embroidered Churidar Suit | Pakistani Cloth | Turmeric Yellow",
+          "Yellow Chanderi Silk Straight Cut Indian Trouser Suit | Women's Ethnic Wear | Yellow",
+          "Light Yellow Cotton Straight Cut Kurti | Women's Ethnic Wear | Light Yellow"
+        ]
+      },
+      "Casual Outing": {
+        "men": [
+          "Light Yellow Cotton Printed Straight Cut Men's Kurta Pajama | Men's Ethnic Wear | Light Yellow",
+          "Art Silk White Printed Straight Cut Men's Kurta Churidar | Men's Ethnic Wear | Pure White",
+          "Light Biege Silk Embroidered Men's Churidar Kurta | Men's Ethnic Wear | Light Beige",
+          "Traditional Mustard Yellow Viscose Men's Kurta Pajama For Haldi | Men's Ethnic Wear | Mustard Yellow"
+        ],
+        "women": [
+          "Mustard Yellow Cotton Printed Straight Cut Patiala Suit | Indian Cloth | Mustard Yellow",
+          "White Cotton Saree with Weaved Thread Work for Casual Wear | Indian Cloth | Pure White",
+          "Muslin Kurti In Turmeric Yellow Color | Women's Ethnic Wear | Turmeric Yellow",
+          "Cotton Silk Off White Printed Straight Cut Suit | Pakistani Cloth | Off White"
+        ]
+      },
+      "Wedding": {
+        "men": [
+          "Embroidered Dupion Silk Trombone Yellow Men Kurta Pajama | Men's Ethnic Wear | Trombone Yellow",
+          "Off White Silk Wedding Kurta With Dhoti Pant | Indian Cloth | Off White",
+          "Woven Silk White Men Sherwani | Men's Ethnic Wear | Pure White",
+          "Cream Embroidered Silk Blend Men's Kurta Pajama For Festival | Men's Ethnic Wear | Cream"
+        ],
+        "women": [
+          "Cream Beige Georgette Sequins Embroidered Cocktail Saree | Indian Cloth | Cream Beige",
+          "Light Yellow Woven Zari Organza Straight Cut Trouser Suit | Women's Ethnic Wear | Light Yellow",
+          "Ivory Net Anarkali Suit With Zari Work for Wedding & Party | Women's Ethnic Wear | Ivory",
+          "Beige Silk Anarkali Suit With Resham Work | Women's Ethnic Wear | Beige"
+        ]
+      },
+      "Official Events": {
+        "men": [
+          "Navy Blue Business Suit with Yellow Tie | Men's Formal Wear | Navy Blue",
+          "Grey Formal Blazer with Yellow Shirt Office Set | Men's Formal Wear | Grey",
+          "White Shirt with Navy Trousers Corporate Style | Men's Office Wear | White & Navy",
+          "Light Lavender Shirt with Grey Suit for Professionals | Men's Formal Wear | Light Lavender",
+          "Charcoal Grey Office Suit with Yellow Accent | Men's Formal Wear | Charcoal Grey"
+        ],
+        "women": [
+          "Navy Blue Office Dress with Yellow Accessories | Women's Formal Wear | Navy Blue",
+          "Grey Pencil Skirt with Yellow Blouse Business Outfit | Women's Office Wear | Grey & Yellow",
+          "White Minimal Office Dress Professional Style | Women's Office Wear | White",
+          "Lavender Blouse with Grey Skirt Corporate Outfit | Women's Formal Wear | Lavender",
+          "Charcoal Grey Business Suit for Women Office Wear | Women's Formal Wear | Charcoal Grey"
+        ]
+      }
+    },
+    "description": "Dataset-derived style guidance built from wardrobe recommendations and product examples. Choose flattering materials like Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and patterns such as Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids for color-smart outfits. Preferred accent tones include Earth Tones, Olive, Coral, Peach, Mustard. Keep jewelry subtle with Gold, Silver, Rose Gold. These suggestions combine both product-level recommendations and body-style guidance.",
+    "matching_colors": [
+      "Navy",
+      "White",
+      "Olive Green",
+      "Grey"
+    ],
+    "suitable_colors": {
+      "Birthday": [
+        "White",
+        "Mustard Yellow",
+        "Pure White",
+        "Off White"
+      ],
+      "Casual Outing": [
+        "Mustard Yellow",
+        "Off White",
+        "Pure White",
+        "Cream Beige"
+      ],
+      "Wedding": [
+        "Off White",
+        "Cream Beige",
+        "Pure White",
+        "Mustard Yellow"
+      ],
+      "Official Events": [
+        "Navy",
+        "Grey",
+        "White"
+      ]
+    },
+    "dress_pattern_description": "Based on the dataset, select structured or flowy fabrics and balanced patterns. For most occasions, use Structured Cotton, Flowy Fabric, Lightweight Cotton, Jersey, Knits and Curved Lines, Vertical Stripes, Bright Tops, Diagonal Lines, Simple Solids to complement the chosen color palette."
+  }
+}

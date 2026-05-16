@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Frontend",
+			"type": "shell",
+			"command": "cd /d \"d:\\Research final model tryyy\\Event _theme_based_decoration_Recommendation -- Tested -- ok\\frontend\" && npm run build",
+			"isBackground": false,
+			"problemMatcher": [
+				"$eslint-stylish"
+			]
+		}
+	]
+}
