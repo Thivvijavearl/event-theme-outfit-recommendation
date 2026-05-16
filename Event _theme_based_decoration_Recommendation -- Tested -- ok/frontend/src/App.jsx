@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react'
 import './App.css'
 
+const apiBase = import.meta.env.VITE_API_BASE || 'http://127.0.0.1:5002'
+
 function App() {
   const [selectedFiles, setSelectedFiles] = useState([])
   const [imagePreviews, setImagePreviews] = useState([])
@@ -25,7 +27,7 @@ function App() {
       document.body.classList.add('dark-mode')
     }
 
-    fetch('http://127.0.0.1:5002/occasions')
+    fetch(`${apiBase}/occasions`)
       .then((response) => response.json())
       .then((data) => {
         if (Array.isArray(data.occasions) && data.occasions.length > 0) {
@@ -98,7 +100,7 @@ function App() {
     formData.append('occasion', occasion)
 
     try {
-      const response = await fetch('http://127.0.0.1:5002/predict', {
+      const response = await fetch(`${apiBase}/predict`, {
         method: 'POST',
         body: formData,
       })
